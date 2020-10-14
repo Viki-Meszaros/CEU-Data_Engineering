@@ -23,7 +23,7 @@ BEGIN
 
 IF var > 100000 THEN
 		SET amount_category = 'CAT1';
-	ELSEIF var > 10000 & amount <= 100000 THEN
+	ELSEIF var > 10000 & var <= 100000 THEN
 		SET amount_category = 'CAT2';
     ELSE
 		SET amount_category = 'CAT3';
