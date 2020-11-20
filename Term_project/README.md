@@ -1,7 +1,7 @@
-Data Engineering Term Project
+# Data Engineering Term Project
 
-Viktória Mészáros
-CEU
+**Viktória Mészáros**
+*CEU*
 2020
 
 This folder contains the materials created for my data engineering term project. 
